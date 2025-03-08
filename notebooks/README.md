@@ -103,7 +103,7 @@ The EDA focuses on understanding the underlying patterns in weather data using v
 - Helps in understanding and predicting extreme weather conditions.
 This cleaned dataset will be used for Exploratory Data Analysis (EDA) and forecasting models.
 
-## Feature Engineering
+# Feature Engineering
 
 - Converted the `last_updated` column to a **datetime format** and set it as the index.
 - Handled **missing values** by dropping NaNs after feature transformations.
