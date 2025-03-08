@@ -5,3 +5,4 @@ seaborn
 ipykernel
 statsmodels
 torch
+scikit-learn
